@@ -1,3 +1,3 @@
-module basics/loops
+module basics
 
 go 1.24.4
