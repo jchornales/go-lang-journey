@@ -95,14 +95,4 @@ I'll be updating this section weekly with key takeaways, surprises, gotchas, and
 
 ---
 
-## 💬 Contact
-
-Feel free to follow my journey or reach out for collaboration!
-
-- GitHub: [yourusername](https://github.com/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Portfolio: [yourdomain.com](https://yourdomain.com)
-
----
-
 > _“Start where you are. Use what you have. Do what you can.” – Arthur Ashe_
